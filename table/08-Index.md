@@ -24,27 +24,27 @@ backup, [Backing up a File System](03.07-BackingUp%20and%20Restoring%20a%20File%
 		&emsp;&emsp;examples, [lustre_rsync Examples](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#lustre_rsync-examples)<br>
 		&emsp;&emsp;using, [Using Lustre_rsync](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#using-lustre_rsync)<br><br>
 
-	&emsp;using LVM, [Using LVM Snapshots with the Lustre File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#using-lvm-snapshots-with-the-lustre-file-system)<br><br>
+​	&emsp;using LVM, [Using LVM Snapshots with the Lustre File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#using-lvm-snapshots-with-the-lustre-file-system)<br><br>
 
-		&emsp;&emsp;creating, [Creating an LVM-based Backup File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#creating-an-lvm-based-backup-file-system)<br>
+​		&emsp;&emsp;creating, [Creating an LVM-based Backup File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#creating-an-lvm-based-backup-file-system)<br>
 		&emsp;&emsp;creating snapshots, [Creating Snapshot Volumes](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#creating-snapshot-volumes)<br>
 		&emsp;&emsp;deleting, [Deleting Old Snapshots](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#deleting-old-snapshots)<br>
 		&emsp;&emsp;resizing, [Changing Snapshot Volume Size](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#changing-snapshot-volume-size)<br>
 		&emsp;&emsp;restoring, [Restoring the File System From a Snapshot](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#restoring-the-file-system-from-a-snapshot)<br><br>
 
-	&emsp;ZFS to ldiskfs, [Migrate from a ZFS to an ldiskfs based filesystem](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#migrate-from-a-zfs-to-an-ldiskfs-based-filesystem), [Migrate from an ldiskfs to a ZFS based filesystem](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#migrate-from-an-ldiskfs-to-a-zfs-based-filesystem)<br>
+​	&emsp;ZFS to ldiskfs, [Migrate from a ZFS to an ldiskfs based filesystem](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#migrate-from-a-zfs-to-an-ldiskfs-based-filesystem), [Migrate from an ldiskfs to a ZFS based filesystem](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#migrate-from-an-ldiskfs-to-a-zfs-based-filesystem)<br>
 	&emsp;ZFS ZPL, [Migration Between ZFS and ldiskfs Target Filesystems](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#migration-between-zfs-and-ldiskfs-target-filesystems)<br><br>
 
 barrier, [Global Write Barriers](03.19-Lustre%20ZFS%20Snapshots.md#global-write-barriers)<br><br>
 
-	&emsp;impose, [Impose Barrier](03.19-Lustre%20ZFS%20Snapshots.md#impose-barrier)<br>
+​	&emsp;impose, [Impose Barrier](03.19-Lustre%20ZFS%20Snapshots.md#impose-barrier)<br>
 	&emsp;query, [Query Barrier](03.19-Lustre%20ZFS%20Snapshots.md#query-barrier)<br><br>
 	&emsp;remove, [Remove Barrier](03.19-Lustre%20ZFS%20Snapshots.md#remove-barrier)<br>
 	&emsp;rescan, [Rescan Barrier](03.19-Lustre%20ZFS%20Snapshots.md#rescan-barrier)<br><br>
 
 ###### benchmarking
 
-	&emsp;application profiling, [Collecting Application Profiling Information (stats-collect)](04.02-Benchmarking%20Lustre%20File%20System%20Performance%20(Lustre%20IO%20Kit).md#collecting-application-profiling-information-stats-collect)<br>
+​	&emsp;application profiling, [Collecting Application Profiling Information (stats-collect)](04.02-Benchmarking%20Lustre%20File%20System%20Performance%20(Lustre%20IO%20Kit).md#collecting-application-profiling-information-stats-collect)<br>
 	&emsp;local disk, [Testing Local Disk Performance](04.02-Benchmarking%20Lustre%20File%20System%20Performance%20(Lustre%20IO%20Kit).md#testing-local-disk-performance)<br>
 	&emsp;MDS performance, [Testing MDS Performance (mds-survey)](04.02-Benchmarking%20Lustre%20File%20System%20Performance%20(Lustre%20IO%20Kit).md#testing-mds-performance-mds-survey)<br>
 	&emsp;network, [Testing Network Performance](04.02-Benchmarking%20Lustre%20File%20System%20Performance%20(Lustre%20IO%20Kit).md#testing-network-performance)<br>
