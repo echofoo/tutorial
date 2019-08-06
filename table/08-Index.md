@@ -20,13 +20,13 @@ backup, [Backing up a File System](03.07-BackingUp%20and%20Restoring%20a%20File%
 	&emsp;OST file system, [Backing Up an OST or MDT (Backend File System Level)](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#backing-up-an-ost-or-mdt-backend-file-system-level)<br>
 	&emsp;restoring file system backup, [Restoring a File-Level Backup](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#restoring-a-file-level-backup)<br>
 	&emsp;restoring OST config, [Restoring OST Configuration Files](03.03-Lustre%20Maintenance.md#restoring-ost-configuration-files)<br>
-	&emsp;rsync, [Lustre_rsync](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#lustre_rsync)<br>
+	&emsp;rsync, [Lustre_rsync](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#lustre_rsync)<br><br>
 ​		&emsp;&emsp;examples, [lustre_rsync Examples](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#lustre_rsync-examples)<br>
 		&emsp;&emsp;using, [Using Lustre_rsync](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#using-lustre_rsync)<br><br>
 
 ​	&emsp;using LVM, [Using LVM Snapshots with the Lustre File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#using-lvm-snapshots-with-the-lustre-file-system)<br><br>
 
-​		&emsp;&emsp;creating, [Creating an LVM-based Backup File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#creating-an-lvm-based-backup-file-system)<br>
+​		&emsp;&ensp;creating, [Creating an LVM-based Backup File System](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#creating-an-lvm-based-backup-file-system)<br>
 		&emsp;&emsp;creating snapshots, [Creating Snapshot Volumes](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#creating-snapshot-volumes)<br>
 		&emsp;&emsp;deleting, [Deleting Old Snapshots](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#deleting-old-snapshots)<br>
 		&emsp;&emsp;resizing, [Changing Snapshot Volume Size](03.07-BackingUp%20and%20Restoring%20a%20File%20System.md#changing-snapshot-volume-size)<br>
